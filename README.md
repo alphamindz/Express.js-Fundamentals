@@ -1,4 +1,4 @@
-# 🚀 Express.js Mastery Roadmap
+#  Express.js Mastery Roadmap
 ### From Basics to Production-Ready Backend Development
 
 > **Interview-Ready Statement:**  
