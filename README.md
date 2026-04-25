@@ -6,7 +6,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 - [Phase 1: Foundation (The Basics)](#phase-1-foundation-the-basics)
 - [Phase 2: Industrial Application (Middleware & Architecture)](#phase-2-industrial-application-middleware--architecture)
 - [Phase 3: Advanced Backend (Database & Security)](#phase-3-advanced-backend-database--security)
@@ -18,7 +18,7 @@
 
 ## Phase 1: Foundation (The Basics)
 
-### 🎯 Learning Objectives
+###  Learning Objectives
 - Understand why Express exists and what problems it solves
 - Master the request-response cycle
 - Handle different HTTP methods and routing patterns
